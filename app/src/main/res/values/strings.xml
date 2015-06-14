@@ -8,4 +8,24 @@
     <string name="pref_location_label">Location</string>
     <string name="pref_location_key" translatable="false">location</string>
     <string name="pref_location_default" translatable="false">94034</string>
+
+    <string name="pref_units_label">Preferred Units</string>
+    <string name="pref_units_key" translatable="false">units</string>
+    <string name="pref_units_default" translatable="false">Metric</string>
+
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
+
+
+    <string-array name="units_labels_array">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+
+    <string-array name="units_values_array">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+
+
 </resources>
